@@ -13,3 +13,4 @@ http.createServer(function(req,res){
     res.end("<p>Hello Word</p>");
 }).listen(3000);
 console.log("HTTP server is listening at port 3000.");
+console.log("Publish Github.");
